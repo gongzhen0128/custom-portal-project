@@ -1,0 +1,12 @@
+#m-body {
+  margin-left: 30px; }
+  #m-body h4 {
+    font-weight: bold; }
+  #m-body .body-nurse {
+    text-align: center; }
+    #m-body .body-nurse p {
+      font-weight: bold; }
+  #m-body img {
+    border-radius: 100%; }
+
+/*# sourceMappingURL=modal.css.map */

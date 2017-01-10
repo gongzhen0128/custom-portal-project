@@ -1,0 +1,21 @@
+#info .info-title {
+  background-color: #dfdfdf;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 16px; }
+#info .info-body {
+  font-size: 14px; }
+
+#settings .settings-title {
+  background-color: #dfdfdf;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 16px; }
+#settings .col-md-5 {
+  padding-left: 50px; }
+#settings .col-md-7 {
+  padding-left: 50px; }
+#settings .settings-body {
+  font-size: 14px; }
+
+/*# sourceMappingURL=profile.css.map */
